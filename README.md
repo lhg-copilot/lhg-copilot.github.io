@@ -1,14 +1,7 @@
 <div align="center">
 <h1>META-GIS.me</h1>
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Auth](https://img.shields.io/badge/Auth-eryajf-ff69b4)](https://github.com/eryajf)
-[![GitHub contributors](https://img.shields.io/github/contributors/eryajf/awesome-github-profile-readme-chinese)](https://github.com/eryajf/awesome-github-profile-readme-chinese/graphs/contributors)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/eryajf/awesome-github-profile-readme-chinese)](https://github.com/eryajf/awesome-github-profile-readme-chinese/pulls)
-[![GitHub Pull Requests](https://img.shields.io/github/stars/eryajf/awesome-github-profile-readme-chinese)](https://github.com/eryajf/awesome-github-profile-readme-chinese/stargazers)
-[![HitCount](https://views.whatilearened.today/views/github/eryajf/awesome-github-profile-readme-chinese.svg)](https://github.com/eryajf/awesome-github-profile-readme-chinese)
-[![GitHub license](https://img.shields.io/github/license/eryajf/awesome-github-profile-readme-chinese)](https://github.com/eryajf/awesome-github-profile-readme-chinese/blob/main/LICENSE)
-[![](https://img.shields.io/badge/Awesome-MyStarList-c780fa?logo=Awesome-Lists)](https://github.com/eryajf/awesome-stars-eryajf#readme)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![GitHub contributors](https://img.shields.io/github/contributors/coderjojo/creative-profile-readme)](https://github.com/coderjojo/creative-profile-readme/graphs/contributors) [![GitHub issues](https://img.shields.io/github/issues/coderjojo/creative-profile-readme)](https://github.com/coderjojo/creative-profile-readme/issues) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/coderjojo/creative-profile-readme/pulls) [![HitCount](https://views.whatilearened.today/views/github/coderjojo/creative-profile-readme.svg)](https://github.com/coderjojo/creative-profile-readme) [![website coderjojo.github.io](https://img.shields.io/website-up-down-green-red/http/coderjojo.github.io/creative-profile-readme.svg)](https://coderjojo.github.io/creative-profile-readme/)
 
 <p> 🌍 DBRG地理信息系统 🌍</p>
 
