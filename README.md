@@ -108,7 +108,6 @@ by Reinahrd
 </div>
 
 ## G
-
 - [GIS](http://119.23.21.121:7990/smartearth/)
 
   <details>
@@ -121,15 +120,12 @@ by Reinahrd
 </div>
 
 ## H
-
 - [HIGIS](http://119.23.21.121:7990/smartearth/)
 
   <details>
     <summary>Preview</summary>
     <img src="examples/HiGIS.jpg">
 </details>
-<div align="right">
-
 <div align="right">
 
 🔝[回到顶部](#目录)
