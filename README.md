@@ -1,6 +1,9 @@
 <div align="center">
 <h1>META-GIS.me</h1>
-    <img src="https://awesome.re/badge.svg"(https://awesome.re)>   <img src="https://img.shields.io/github/contributors/coderjojo/creative-profile-readme"(https://github.com/coderjojo/creative-profile-readme/graphs/contributors)>  <img src="https://img.shields.io/github/issues/coderjojo/creative-profile-readme"(https://github.com/coderjojo/creative-profile-readme/issues)>  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square"(https://github.com/coderjojo/creative-profile-readme/pulls)>  <img src="https://views.whatilearened.today/views/github/coderjojo/creative-profile-readme.svg"(https://github.com/coderjojo/creative-profile-readme)>  <img src="https://img.shields.io/website-up-down-green-red/http/coderjojo.github.io/creative-profile-readme.svg"(https://coderjojo.github.io/creative-profile-readme/)>
+    <img src="https://awesome.re/badge.svg">   <img src="https://img.shields.io/github/contributors/coderjojo/creative-profile-readme">  <img src="https://img.shields.io/github/issues/coderjojo/creative-profile-readme">
+    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square">
+    <img src="https://views.whatilearened.today/views/github/coderjojo/creative-profile-readme.svg">
+    <img src="https://img.shields.io/website-up-down-green-red/http/coderjojo.github.io/creative-profile-readme.svg">
 
 <p> 🌍 DBRG地理信息系统 🌍</p>
 
