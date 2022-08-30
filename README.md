@@ -50,8 +50,8 @@ by Reinahrd <br>
   <details>
     <summary>Preview</summary>
     <img src="examples/CatchZeng.png">
-
-<div align="right">  </details>
+</details>
+<div align="right">  
 🔝[回到顶部](#目录)
 </div>
 
@@ -89,8 +89,8 @@ by Reinahrd <br>
   <details>
     <summary>Preview</summary>
     <img src="examples/eryajf.png">
-
-<div align="right">  </details>
+ </details>
+<div align="right"> 
 
 🔝[回到顶部](#目录)
 </div>
@@ -255,8 +255,8 @@ by Reinahrd <br>
   <details>
     <summary>Preview</summary>
     <img src="examples/morlay.png">
-
-<div align="right">  </details>
+</details>
+<div align="right">  
 
 🔝[回到顶部](#目录)
 </div>
@@ -267,8 +267,8 @@ by Reinahrd <br>
   <details>
     <summary>Preview</summary>
     <img src="examples/nihui.png">
-
-<div align="right">  </details>
+ </details>
+<div align="right"> 
 
 🔝[回到顶部](#目录)
 </div>
@@ -451,8 +451,8 @@ by Reinahrd <br>
   <details>
     <summary>Preview</summary>
     <img src="examples/xqbumu.png">
-
-<div align="right">  </details>
+ </details>
+<div align="right"> 
 
 🔝[回到顶部](#目录)
 </div>
@@ -480,7 +480,7 @@ by Reinahrd <br>
     <img src="examples/yongxinz.png">
   </details>
 
-<div align="right">  </details>
+<div align="right">  
 
 🔝[回到顶部](#目录)
 </div>
