@@ -1,1 +1,0 @@
-# lhg-copilot.github.io
