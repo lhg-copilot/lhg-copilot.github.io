@@ -508,7 +508,7 @@ by Reinahrd <br>
 🔝[回到顶部](#目录)
 </div>
 
-<iframe   src="https://alteredqualia.com/xg/examples/earth_seasons.html" width="" height=""   frameborder="1/0"  name="iframe名称"     scrolling="yes/no/auto">   
+<iframe   src="https://alteredqualia.com/xg/examples/earth_seasons.html" width="100" height="100" align="middle" frameborder="0"  name="earth_seasons"     scrolling="/no">   
 </iframe>
 
 
